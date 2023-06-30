@@ -1,11 +1,9 @@
-# Racknerd VPS：Affordable, Stable, Excellent After-sales Service - An Unbeatable VPS in Terms of Cost-effectiveness
-#
-# *LEB Exclusiv 
-# $10.98/Year | 1G/1C/17G SSD/3T 
+# Racknerd VPS：Affordable, Stable, Excellent After-sales Service - An Unbeatable VPS in Terms of Cost-effectiveness, Obtain a 1GB RAM VPS at an average cost lower than 1 USD per month.
+# 
+# $10.98/Year | 1G/1C/17G SSD/3T | *LEB Exclusiv 
 # https://my.racknerd.com/aff.php?aff=7087&pid=358
 #
-# *Easter 2023 
-# $21.98/Year | 2G/2C/45G SSD/5T
+# $21.98/Year | 2G/2C/45G SSD/5T | *Easter 2023  
 # https://my.racknerd.com/aff.php?aff=7087&pid=768
 #
 # WHY
