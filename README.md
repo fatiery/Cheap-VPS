@@ -1,11 +1,16 @@
-# Racknerd VPS：Affordable, Stable, Excellent After-sales Service - An Unbeatable VPS in Terms of Cost-effectiveness, Obtain a 1GB RAM VPS at an average cost lower than 1 USD per month.
-# 
-# $10.98/Year | 1G/1C/17G SSD/3T | *LEB Exclusiv 
-# https://my.racknerd.com/aff.php?aff=7087&pid=358
-#
-# $21.98/Year | 2G/2C/45G SSD/5T | *Easter 2023  
-# https://my.racknerd.com/aff.php?aff=7087&pid=768
-#
+# Intro
+Racknerd VPS：Affordable, Stable, Excellent After-sales Service - An Unbeatable VPS in Terms of Cost-effectiveness, Obtain a 1GB RAM VPS at an average cost lower than 1 USD per month. Run your program for a whole year.
+
+# Price
+
+$10.98/Year | 1G/1C/17G SSD/3T | *LEB Exclusiv
+
+https://my.racknerd.com/aff.php?aff=7087&pid=358
+
+$21.98/Year | 2G/2C/45G SSD/5T | *Easter 2023 
+
+https://my.racknerd.com/aff.php?aff=7087&pid=768
+
 # WHY
 I am delighted to recommend Racknerd's Virtual Private Server (VPS) services. Racknerd is a highly acclaimed provider of hosting solutions, offering high-performance and reliable VPS services to individuals and businesses alike.
 
@@ -24,7 +29,7 @@ Let's take a look at the advantages of Racknerd VPS:
 Registering and purchasing a VPS with Racknerd is straightforward. They offer an intuitive user interface that allows you to easily manage and control your VPS. Moreover, Racknerd provides flexible payment options and reasonable pricing strategies, ensuring that you receive value for your money with their hosting services.
 
 In conclusion, if you are in need of high-performance and reliable VPS services, I highly recommend considering Racknerd. Their outstanding performance, reliability, and excellent customer support will add significant value to your online operations.
-#
+
 # FAQ
 Can I change my server's operating system later?
 Yes! Via our intuitive VPS control panel, you may re-install your VPS's operating system at any time, and switch distributions if desired.
@@ -37,7 +42,7 @@ RackNerd's KVM VPS packages are instantly activated after you complete your orde
 
 Can I get IPv6 addresses with my KVM VPS?
 Yes, RackNerd provides up to 100 free IPv6 addresses upon request in our Los Angeles location (more locations will support IPv6 soon). Please open a support ticket after your order to request this.
-#
+
 # ALL
 $10.18/Y | 512MB/1C/10G SSD/1.5T
 https://my.racknerd.com/aff.php?aff=7087&pid=734
