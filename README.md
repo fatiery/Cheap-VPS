@@ -11,7 +11,7 @@ $21.98/Year | 2G/2C/45G SSD/5T | *Easter 2023
 
 https://my.racknerd.com/aff.php?aff=7087&pid=768
 
-# Why
+# WHY
 I am delighted to recommend Racknerd's Virtual Private Server (VPS) services. Racknerd is a highly acclaimed provider of hosting solutions, offering high-performance and reliable VPS services to individuals and businesses alike.
 
 Let's take a look at the advantages of Racknerd VPS:
